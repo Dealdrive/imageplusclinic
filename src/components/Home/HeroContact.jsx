@@ -5,10 +5,16 @@ const HeroContact = () => {
     <div className="flex flex-col justify-center space-y-4 py-6 px-4 mb-3 bg-[#f97729] text-white text-center text-[15px] md:flex-row md:space-y-0 md:space-x-8 lg:space-x-20">
       <div className="md:pr-4 md:border-r lg:pr-16">
         <p>
-          <span className="font-bold">Uyo: </span> No. 12 Willam street(Amaecom Global House) After Nepa line by Aka road, Uyo
+          <span className="font-bold">Uyo: </span> No. 12 Willam street(Amaecom
+          Global House) After Nepa line by Aka road, Uyo
         </p>
         <p>
-          <span className="font-bold">Port Harcourt: </span> No. 12 Rumola/Stadium Link Road, Port Harcourt
+          <span className="font-bold">Port Harcourt: </span> No. 12
+          Rumola/Stadium Link Road, Port Harcourt
+        </p>
+        <p>
+          <span className="font-bold">Aba: </span> No. 47 Azikiwe Road, adjacent
+          St Joseph Aba, Abia State
         </p>
       </div>
       <div className="md:pr-4 md:border-r lg:pr-16">

@@ -10,23 +10,25 @@ const Footer = () => {
   return (
     <footer className="flex flex-col space-y-8 pt-8 pb-12 px-6 bg-[#efefef] sm:px-8 lg:px-16 xl:px-28 md:flex-row md:space-y-0 md:space-x-4 lg:justify-between lg:space-x-0">
       <div className="flex flex-col space-y-2 text-lg">
-        <h3 className="text-2xl text-[#f97729] font-bold">Uyo and Port Harcourt</h3>
+        <h3 className="text-2xl text-[#f97729] font-bold">
+          Uyo, Aba and Port Harcourt
+        </h3>
         <div className="flex space-x-4">
           <img className="w-7 h-7" src={locationIcon} alt="Location" />
           <p className="max-w-sm">
-            <b>Uyo: </b> No. 12 Willam street(Amaecom Global House) After Nepa line by Aka road, Uyo
+            <b>Uyo: </b> No. 12 Willam street(Amaecom Global House) After Nepa
+            line by Aka road, Uyo
             <br />
-            <b>Port Harcourt: </b> No. 12 Rumola/Stadium Link Road, Port Harcourt
+            <b>Port Harcourt: </b> No. 12 Rumola/Stadium Link Road, Port
+            Harcourt
+            <br />
+            <b>Aba: </b> No. 47 Azikiwe Road, adjacent St Joseph Aba, Abia State
           </p>
-          <p className="max-w-sm">
-            
-          </p>
+          <p className="max-w-sm"></p>
         </div>
         <div className="flex space-x-4">
           <img className="w-7 h-7" src={timeIcon} alt="Time" />
-          <p className="max-w-[250px]">
-            Monday - Saturday 8AM - 5PM
-          </p>
+          <p className="max-w-[250px]">Monday - Saturday 8AM - 5PM</p>
         </div>
         <div className="flex space-x-4">
           <img className="w-6 h-6" src={phoneIcon} alt="Phone" />

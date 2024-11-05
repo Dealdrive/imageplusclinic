@@ -5,13 +5,13 @@ const Summary = () => {
     <section className="pt-12 py-16 px-6 sm:px-12 md:px-20 lg:px-16 xl:px-28">
       <div className="flex flex-col items-center mb-10">
         <h2 className="mb-3 text-center text-3xl text-[#333] font-bold uppercase md:text-4xl">
-          Eye Clinic in Uyo & Port Harcourt
+          Eye Clinic in Uyo, Aba & Port Harcourt
         </h2>
         <div className="w-10 h-[3px] bg-[#f97729]" />
       </div>
       <div className="mb-12">
         <p className="text-xl">
-          Imageplus is an eye clinic in Akwa Ibom and Port Harcourt. We
+          Imageplus is an eye clinic in Akwa Ibom, Aba and Port Harcourt. We
           specialize in caring for all your vision needs. We handle everything
           from eye exams, preventative care, treatment, hard-to-fit contact
           lenses, computer vision problems, specialty lenses to low vision and
